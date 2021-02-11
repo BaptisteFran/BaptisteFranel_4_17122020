@@ -13,6 +13,30 @@ body {
   width: 0;
 }
 
+#description-title {
+  margin: auto;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  max-width: 60%;
+  font-weight: 300;
+}
+
+#citation {
+    margin: auto;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    max-width: 80%;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 2rem;
+    line-height: 2.5rem;
+}
+
+#sign-citation {
+  margin-top: -1rem;
+  font-size: 1.5rem;
+}
+
 a,
 button {
   transition: all 0.3s ease-in-out;
